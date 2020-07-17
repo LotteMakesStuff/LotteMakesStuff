@@ -5,3 +5,8 @@ Hi im Lotte and i make stuff! Mostly videogames and Unity stuff, you can find a 
 - 🔭 I’m currently working on [Gunsport](Gunsport.tv) @ Necrosoft
 - 😄 Pronouns: She/Her 👩‍💻
 - 📫 How to reach me: 🐤 [@LotteMakesStuff](twitter.com/LotteMakesStuff) 📧 lotte@lottemakesstuff.pink
+
+- 🎮 Some stuff ive made:
+
+![Gunsport](gunsport.png) ![John Wick Hex](hex.png) 
+![Unity Jobs Physics demo](simplePhysics.jpg) ![The Swindle](theSwindle.png) 
