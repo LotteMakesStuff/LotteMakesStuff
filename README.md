@@ -8,5 +8,5 @@ Hi im Lotte and i make stuff! Mostly videogames and Unity stuff, you can find a 
 
 - 🎮 Some stuff ive made:
 
-![Gunsport](gunsport.png) ![John Wick Hex](hex.png) 
-![Unity Jobs Physics demo](simplePhysics.jpg) ![The Swindle](theSwindle.png) 
+![Gunsport](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/gunsport.png) ![John Wick Hex](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/hex.png) 
+![Unity Jobs Physics demo](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/simplePhysics.jpg) ![The Swindle](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/theSwindle.png) 
