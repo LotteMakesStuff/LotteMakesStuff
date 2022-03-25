@@ -2,7 +2,7 @@
 
 Hi im Lotte and i make stuff! Mostly videogames and Unity stuff, you can find a whole bunch of it here 💖
 
-- 🔭 I’m currently working on [Gunsport](http://Gunsport.tv) @ Necrosoft
+- 🔭 I’m currently working on [Hyper Gunsport](http://Gunsport.tv) @ Necrosoft
 - 😄 Pronouns: She/Her 👩‍💻
 - 📫 How to reach me: 🐤 [@LotteMakesStuff](twitter.com/LotteMakesStuff) 📧 lotte@lottemakesstuff.pink
 
