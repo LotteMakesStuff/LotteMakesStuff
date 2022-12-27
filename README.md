@@ -8,5 +8,6 @@ Hi im Lotte and i make stuff! Mostly videogames and Unity stuff, you can find a 
 
 - 🎮 Some stuff ive made:
 
+![Hyper Gunsport](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/hgs.png) 
 ![Gunsport](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/gunsport.png) ![John Wick Hex](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/hex.png) 
 ![PlagueInc](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/plagueInc.jpg) ![The Swindle](https://github.com/LotteMakesStuff/LotteMakesStuff/blob/master/theSwindle.png) 
